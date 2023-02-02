@@ -10,7 +10,13 @@
 - Monthly average weather delay by reporting airline for the given year.
 - Monthly average national air system delay by reporting airline for the given year.
 - Monthly average security delay by reporting airline for the given year.
-- Monthly average late aircraft delay by reporting airline for the given year.<br><br><br>
+- Monthly average late aircraft delay by reporting airline for the given year.
+## Screenshots
+
   ![part1](1.PNG)
   ![part2](2.PNG)
   ![part3](3.PNG)
+  
+## Built With
+- [Dash](https://dash.plotly.com/) - Main server and interactive components
+- [Plotly Python](https://plotly.com/python/) - Used to create the interactive plots
