@@ -10,7 +10,7 @@
 - Monthly average weather delay by reporting airline for the given year.
 - Monthly average national air system delay by reporting airline for the given year.
 - Monthly average security delay by reporting airline for the given year.
-- Monthly average late aircraft delay by reporting airline for the given year.<br>
+- Monthly average late aircraft delay by reporting airline for the given year.<br><br><br>
   ![part1](1.PNG)
   ![part2](2.PNG)
   ![part3](3.PNG)
